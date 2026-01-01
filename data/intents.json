@@ -1,0 +1,54 @@
+{
+  "clinic_details": [
+    {
+      "q": "What are your clinic's hours of operation?",
+      "a": "Our clinic is open from 8:00 AM to 5:00 PM, Monday through Friday. We are closed on weekends and major holidays."
+    },
+    {
+      "q": "Where is the clinic located?",
+      "a": "We are located at 123 Health St, Wellness City, 90210. You can find us on the 3rd floor of the Medical Arts Building."
+    },
+    {
+      "q": "Is there parking available?",
+      "a": "Yes, there is a dedicated patient parking garage attached to our building. Parking is free for all patients. Please bring your parking ticket for validation."
+    }
+  ],
+  "insurance_billing": [
+    {
+      "q": "What insurance providers do you accept?",
+      "a": "We accept most major insurance providers, including Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare, and Medicare. We also accept self-pay patients."
+    },
+    {
+      "q": "What payment methods can I use?",
+      "a": "We accept all major credit cards (Visa, MasterCard, Amex), debit cards, and cash. Payment is due at the time of service unless other arrangements are made."
+    },
+    {
+      "q": "Can you explain your billing policies?",
+      "a": "We will bill your insurance provider directly for your visit. You are responsible for any co-payments, deductibles, or non-covered services. Your co-pay is due at the time of your visit."
+    }
+  ],
+  "visit_preparation": [
+    {
+      "q": "What documents do I need for my first visit?",
+      "a": "For your first visit, please bring a valid photo ID (like a driver's license), your insurance card, and a list of any current medications you are taking."
+    },
+    {
+      "q": "What should I bring for my appointment?",
+      "a": "Please bring your photo ID, insurance card, and any relevant medical records or test results. If it's a follow-up, please bring your medication list."
+    }
+  ],
+  "policies": [
+    {
+      "q": "What is your cancellation policy?",
+      "a": "We require at least 24 hours' notice for all cancellations. Appointments cancelled with less than 24 hours' notice may be subject to a $50 cancellation fee."
+    },
+    {
+      "q": "What happens if I'm late for my appointment?",
+      "a": "We have a 15-minute grace period. If you are more than 15 minutes late, we may need to reschedule your appointment to ensure our doctors can stay on schedule for all patients."
+    },
+    {
+      "q": "What are your COVID-19 protocols?",
+      "a": "We require all patients and staff to wear masks inside the clinic, regardless of vaccination status. We also practice social distancing in waiting areas and sanitize all rooms between patients."
+    }
+  ]
+}
